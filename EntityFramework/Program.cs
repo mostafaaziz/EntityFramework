@@ -18,7 +18,6 @@ namespace EntityFramework
             //var dept = new Department() { Name = "IT"};
             //context.Departments.Add(dept);
 
-
             //var Ins = new Instructor() { Name = "Mohamed", Salary = 4_000, Hour_Rate = 200 };
             //context.Instructors.Add(Ins);
 
